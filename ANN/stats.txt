@@ -1,0 +1,21 @@
+260 10
+Training Error 2 Train : 0.064019	117.655672
+Training Errot 4 Train : 5.183266	236.457099	
+Training Error 6 Train : 18.427332	352.173132
+
+260 25 10
+Training Error 2 Train : 0.023758	264.644871
+Training Errot 4 Train : 1.055404	523.965407	
+Training Error 6 Train : 9.049420	761.460748
+
+
+260 25 25 10
+Training Error 2 Train : 0.022757	325.302207	
+Training Errot 4 Train : 2.027789	612.071348	
+Training Error 6 Train : 8.031348	969.888209
+
+
+260 50 25 25 10
+Training Error 2 Train : 0.032307	613.878821	
+Training Errot 4 Train : 1.030956	2720.72556
+Training Error 6 Train : 13.037928b	4926.538051
